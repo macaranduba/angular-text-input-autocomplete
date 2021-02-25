@@ -88,7 +88,7 @@ export class DemoComponent {
   }
 }
 ```
-Npm install bootstrap packahe or, alternatively, in the index.html file, add bootstrap dependencies with the link tag in the head section and the script tag in the body section.
+Npm install bootstrap package or, alternatively, in the index.html file, add bootstrap dependencies with the link tag in the head section and the script tag in the body section.
 ```
 <!doctype html>
 <html lang="en">
